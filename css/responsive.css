@@ -1,0 +1,472 @@
+@media(max-width: 1179px) and (min-width: 992px)
+{
+	body{
+		font-size: 15px;
+	}
+	
+	h1 {
+	    font-size: 35px;
+	}
+
+	h2 {
+	    font-size: 30px;
+	}
+	.header
+	{
+		width: 100%;
+		height: 47vh;
+	}
+	.price,.contactUs,.clients
+	{
+		height: auto;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	.about-us
+	{
+		margin: 75px 0;
+	}
+	.offer
+	{
+		margin-bottom: 40px;
+	}
+	.project-work
+	{
+		margin: 70px 0;
+	}
+	.price .card-header
+	{
+		margin: 5px 0 !important;
+		padding: 6px 0 !important;
+	}
+	.price h2
+	{
+		margin: 10px 0 10px 0;
+	}
+	.card-body
+	{
+		padding: 15px 0px !important;
+	}
+	.card-body li 
+	{
+		margin: 10px 10px;
+		line-height: 1.5;
+	}
+	.card-footer
+	{
+		padding: 22px 0 !important;
+	}
+	.card-footer a
+	{
+		padding: 12px 22px;
+		margin: 0 5px;
+	}
+	.box p
+	{
+		margin: 25px 29px;
+	}
+	.talk-section
+	{
+		padding: 60px 0;
+	}
+
+}
+@media(max-width: 991px) and (min-width: 768px)
+{
+	body{
+		font-size: 15px;
+	}
+	
+	h1 {
+	    font-size: 35px;
+	}
+
+	h2 {
+	    font-size: 30px;
+	}
+	.header
+	{
+		width: 100%;
+		height: 61vh;
+	}
+	.header>.header-section>.center-div>h1
+	{
+		font-size: 2rem;
+	}
+	.price,.contactUs,.clients
+	{
+		height: auto;
+		width: 100%;
+		margin-bottom: 30px;
+	} 
+	.about-us
+	{
+		margin: 75px 0;
+	}
+	.extra-div
+	{
+		padding: 44px 20px !important
+	}
+	.offer
+	{
+		margin-bottom: 0px;
+	}
+	.service-div
+	{
+		margin-top: 50px;
+	}
+	.project-work
+	{
+		margin: 65px 0;
+	}
+	.project-work h1
+	{
+		font-size: 1.7rem;
+		font-weight: 600;
+		color: rgb(83, 83, 83);
+		text-align: center;
+	}
+	.price
+	{
+		padding: 42px;
+	}
+	.card-header
+	{
+		padding: 10px 0;
+	}
+	.price h2
+	{
+		margin: 10px 0;
+	}
+	.card-body
+	{
+		padding:24px 0px !important
+	}
+	.card-body li 
+	{
+		margin: 10px 35px;
+	}
+	.card-footer
+	{
+		padding: 24px 0 !important;
+	}
+	.card-footer a 
+	{
+		padding: 15px 25px;
+
+		margin: 0px 9px;
+	}
+	.middle-card
+	{
+		transform: translateY(0px)
+	}
+	.last-div
+	{
+		margin: 20px 0 0 0;
+	}
+
+	.clients
+	{
+		width: 100%;
+		height: auto;
+		padding: 47px;
+		margin-bottom: 30px;
+	}
+	.clients>.heading
+	{
+		margin-bottom: 2rem !important;
+	}
+	.box p
+	{
+		margin: 16px 16px;
+	}
+	.box h2
+	{
+		margin-bottom: 15px;
+	}
+	.contactUs
+	{
+		width: 100%;
+		height: auto;
+		padding: 70px 0 60px;
+	}
+	.offer-heading
+	{
+		margin-bottom: 40px;
+	}
+	.button-sub
+	{
+		padding: 15px 10px;
+	}
+	.talk-section
+	{
+		padding: 60px 0;
+	}
+	.talk-section p
+	{
+		font-size: 1.5rem;
+	}
+	.span-talk 
+	{
+		font-size: 1.9rem;
+	}
+	.page-img
+	{
+		height: 80px
+	}
+	.footer
+	{
+		padding: 30px 0;
+		font-size: 14px !important;
+	}
+	.footer h3
+	{
+		font-size: 18px ;
+		text-transform: capitalize;
+		margin: 0 0 15px;
+	}
+	.footer p
+	{
+		font-size: 14px;
+		font-weight: 500;
+	}
+	.footer li a
+	{
+		font-size: 14px;
+		font-weight: 500;
+		letter-spacing: 0.25px
+	}
+	.footer .div
+	{
+		text-align: left !important
+
+	}
+	.footer .middle-div
+	{
+		text-align: center !important;
+		text-align: justify;
+	}
+	.footer .contact-us
+	{
+		margin: 30px 0;
+	}
+	#myBtn
+	{
+		/*display: none;*/
+		position: fixed;
+		bottom:  24px;
+		right: 55px;
+		border: none;
+		z-index: 99;
+		color: #fff !important;
+		border-radius: 14px;
+		padding: 13px;
+		background: #2784f0;
+		box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+	}
+	#myBtn:hover
+	{
+		cursor: pointer;
+	}
+}
+@media(max-width: 767px)
+{	
+	body{
+		font-size: 14px;
+	}
+
+	h1 {
+	    font-size: 20px;
+	}
+
+	h2{
+		font-size: 18px;
+	}
+
+	h3 {
+	    font-size: 16px;
+	}
+	p{
+		margin: 0 0 15px;
+		line-height: 1.6em;
+	}
+	.header
+	{
+		width: 100%;
+		height: 70vh;
+	}
+	.nav-item
+	{
+		text-align: center!important;
+	}
+	.about-us
+	{
+		margin: 50px 0;
+	}
+	.offer
+	{
+		padding: 50px 0;
+		margin-bottom: 0px;
+	}
+	.extra-div
+	{
+		padding: 40px 17px !important
+	}
+	.service-div
+	{
+		margin-top: 30px
+	}
+	.project-work
+	{
+		margin: 50px 0;
+	}
+	.offer-heading
+	{
+		margin-bottom: 25px;
+	}
+	.project-work h1
+	{
+		font-size: 27px;
+	}
+	.project-work>div>p
+	{
+		font-size: 20px
+	}
+	.price li ,.price h2, .price a
+	{
+		margin: 5px 9px !important;
+	}
+	.price,.clients,.contactUs
+	{
+		height: auto;
+		margin-top: 25px;
+		padding: 40px 0;
+
+	}
+	.talk-section
+	{
+		padding: 55px 0 !important;
+	}
+	.talk-section p
+	{
+		font-size: 1.5rem !important;
+	}
+	.middle-card
+	{
+		transform: translateY(0px);
+		margin: 30px 0;
+	}
+	.contactUs p
+	{
+		padding: 0 50px;
+	}
+	/*footer*/
+	.footer
+	{
+		padding: 30px 0;
+		font-size: 14px !important;
+	}
+	.footer h3
+	{
+		font-size: 18px ;
+		text-transform: capitalize;
+		margin: 0 0 15px;
+	}
+	.footer p
+	{
+		font-size: 14px;
+		font-weight: 500;
+	}
+	.footer li a
+	{
+		font-size: 14px;
+		font-weight: 500;
+	}
+	.footer .div
+	{
+		text-align: left !important
+
+	}
+	.footer .contact-us
+	{
+		margin: 30px 0;
+	}
+	/*footerEnd*/
+	.talk-section
+	{
+		width: 100%;
+		height: auto;
+		padding: 70px 0 70px 0;
+		position: relative;
+	}
+	.talk-section p
+	{
+		font-size: 1rem;
+		font-weight: 800;
+		text-transform: uppercase;
+		color: rgb(83, 83, 83);
+		opacity: .8;
+		letter-spacing: -1px;
+		line-height: 1.6;
+	}
+	.span-talk
+	{
+		color: #4189ff !important;
+		line-height: 1;
+		font-size: 20px;
+	}
+	.page-img
+	{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		width: 100%;
+		text-align: center !important;
+		height: auto;
+
+	}
+	.talk-section li a
+	{
+		text-decoration: none;
+		text-align: center !important;
+		font-size: 1.5rem;
+		margin: 20px 30px 15px;
+		line-height: 1.6;
+		font-weight: bold;
+		color: #4189ff;
+		text-transform: capitalize;
+	}
+	.inquiry
+	{
+		color: rgb(83, 83, 83) !important;
+		opacity: .8;
+	}
+	.inquiry:hover
+	{
+		color: #4189ff !important;
+	}
+	/********price*************/
+	.price,.client
+	{
+		padding: 20px;
+	}
+	.price li , .price h2
+	{
+		margin: 10px 20px;
+
+	}
+	.card-footer a
+	{
+		margin: 12px 20px;
+
+	}
+	/*********price Ends**********/
+
+	/**************client**********/
+	
+		.box p
+		{
+			margin: 25px 35px;
+		}
+	/***********clients End*******/
+}
